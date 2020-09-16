@@ -1,0 +1,7 @@
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\bin\Debug\CAI_Veterinaria.exe.config
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\bin\Debug\CAI_Veterinaria.exe
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\bin\Debug\CAI_Veterinaria.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\obj\Debug\CAI_Veterinaria.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\obj\Debug\CAI_Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\obj\Debug\CAI_Veterinaria.exe
+C:\Users\Michu\Documents\GitHub\CAI_Veterinaria\CAI_Veterinaria\CAI_Veterinaria\obj\Debug\CAI_Veterinaria.pdb
